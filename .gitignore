@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# (Data) – ignore these two CSVs; change as you like
+df_train.csv
+df_test.csv
